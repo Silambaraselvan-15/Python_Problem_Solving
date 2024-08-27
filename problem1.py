@@ -12,9 +12,6 @@ def find_product(num1,num2,num3):
         product = num2*num3
     else:
         product=-1
-
-
-
     #write your logic here
     return product
 
