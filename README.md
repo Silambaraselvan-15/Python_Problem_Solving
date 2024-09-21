@@ -4,4 +4,6 @@ This Repository is about Problem Solving and Python Programming !
 
 The Problems are given by " INFOSYS SPRINGBOARD/WINGSPAN " and solved by Me 😉.
 
---> https://infyspringboard.onwingspan.com/web/en/login
+--> """https://infyspringboard.onwingspan.com/web/en/login """
+
+a basic problem solving repo for beginers in wingspan
