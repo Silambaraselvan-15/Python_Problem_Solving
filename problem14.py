@@ -15,7 +15,6 @@ def check_palindrome(word):
                        return False
                 
         return  True
-    #Remove pass and write your logic here
 
 status=check_palindrome("mango")
 if(status):
