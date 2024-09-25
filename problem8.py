@@ -21,7 +21,6 @@ display the list containing the total number of chocolates received by each chil
     
 child_id=(11, 12, 13, 14, 15)
 chocolates_received=[33, 12, 0, 0, 2]
-result=dict(zip(child_id,chocolates_received))
 
 def calculate_total_chocolates():
     return sum(chocolates_received)
