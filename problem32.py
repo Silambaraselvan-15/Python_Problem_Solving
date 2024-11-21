@@ -21,7 +21,7 @@ def is_palindrome(word):
     #Remove pass and write your logic here
 
 #Provide different values for word and test your program
-result=is_palindrome("Madhm")
+result=is_palindrome("Madam")
 if(result):
     print("The given word is a Palindrome")
 else:
