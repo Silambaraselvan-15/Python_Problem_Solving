@@ -19,6 +19,7 @@ def find_smallest_number(num):
     number=0
     while divisors(number) != num:
         number+=1    
+        
     return number
 
 num=16
